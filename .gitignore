@@ -1,0 +1,19 @@
+## List of files that should be ignored from git
+# Ignore following folders
+# Ignore following files (too heavy)
+*.RData
+*.Rhistory
+# Ignore generated latex files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.bib.sav
+*.log
+*.bib.bak
+# Ignore the following folder
+old/
